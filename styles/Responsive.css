@@ -1,0 +1,1310 @@
+@media(max-width:1750px){
+    .container-80{
+        max-width: 85.417vw;
+    }
+    /* header  */
+    .top-bar {
+        padding: 20px 0;
+    }
+    
+    .top-contact-links a {
+        font-size: 16px;
+    }
+    
+    nav.main-nav li a {
+        font-size: 15px;
+    }
+    
+    nav.main-nav li {
+        padding-right: 42px;
+    }
+    
+    .logo-wrap .brand a {
+        display: block;
+    }
+
+    /* banner */
+    .banner-content h1 {
+        font-size: 100px;
+    }
+    
+    .banner-content p {
+        font-size: 20px;
+    }
+    
+    .main-btn {
+        font-size: 16px;
+        padding: 13px 30px;
+    }
+    
+    section.banner-section {
+        padding: 300px 0 200px;
+    }
+
+    /* About Section */
+    .about-content h2 {
+        font-size: 84px;
+    }
+    
+    .fa-20 {
+        font-size: 18px;
+    }
+    
+    .about-img img {
+        max-width: 560px;
+    }
+    
+    /* Celebration */
+    .headings-wrap h2 {
+        font-size: 66px;
+    }
+    .fa-24 {
+        font-size: 20px;
+    }
+    .shashky {
+        max-width: 330px;
+    }
+    .headings-wrap p {
+        max-width: 580px;
+    }
+    .travel-content h2 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    
+    .travel-content p {
+        max-width: 530px;
+    }
+    
+    .travel-img img {
+        max-width: 520px;
+    }
+    .celebration .progress__bar {
+        width: auto;
+    }
+    
+    .travel-content {
+        padding: 20px 0 180px;
+    }
+    
+    /* our passion */
+    .passion-content h2 {
+        font-size: 76px;
+    }
+    
+    .passion-content {
+        max-width: 790px;
+    }
+    
+    /* Room Section */
+    .room-wrap img {
+        max-width: 100%;
+    }
+    
+    .room-wrap h2 {
+        font-size: 32px;
+        padding: 40px 0 20px;
+    }
+    
+    .room-wrap {
+        margin-bottom: 75px;
+    }
+
+    /* testimonial */
+    .testi-slide p:before {
+        width: 25px;
+        height: 25px;
+    }
+    .testi-slide {
+        padding: 30px 30px 30px 70px;
+    }
+    
+    .testi-slide p {
+        font-size: 13px;
+    }
+    
+    .customer-profile h2 {
+        font-size: 22px;
+    }
+    
+    .customer-profile img {
+        max-width: 60px;
+    }
+    /* newsletter */
+    section.newsletter {
+        padding: 60px 0;
+    }
+    
+    .newsletter-content h2 {
+        font-size: 34px;
+        margin-bottom: 14px;
+    }
+    
+    .newsletter-content p {
+        font-size: 15px;
+        max-width: 620px;
+    }
+    
+    form.newsletter-form .main-btn {
+        padding: 0px 50px;
+    }
+    /* contact section */
+    .headings-wrap h2.fa-60 {
+        font-size: 46px;
+    }
+    
+    form.contact-form input, form.contact-form textarea {
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+    /* Footer */
+    .footer-content img {
+        max-width: 170px;
+    }
+    
+    .footer-content p {
+        font-size: 17px;
+    }
+    
+    .footer-head {
+        font-size: 24px;
+    }
+    
+    .footer-links ul li a {
+        font-size: 16px;
+    }
+    
+    .footer-links ul li {
+        padding-bottom: 18px;
+    }
+    
+    .footer-address ul li {
+        font-size: 16px;
+    }
+    
+    .footer-bottom-img img {
+        max-width: 145px;
+    }
+    
+    .footer-policy-wrap p a {
+        font-size: 17px;
+    }
+    
+    .footer-policy-wrap {
+        padding: 16px 0;
+    }
+    
+    .footer-images {
+        padding: 50px 0 40px 0;
+    }
+    
+    
+
+}
+
+@media(max-width:1599px){
+    /* header */
+    .top-bar {
+        padding: 16px 0;
+    }
+    .topbar-social i {
+        width: 28px;
+        height: 28px;
+        font-size: 14px;
+    }
+    
+    .top-contact-links a {
+        font-size: 13px;
+    }
+    
+    .top-contact-links a:first-child {
+        margin-right: 30px;
+    }
+    
+    nav.main-nav li {
+        padding-right: 38px;
+    }
+    
+    nav.main-nav li a {
+        font-size: 13px;
+    }
+    
+    .logo-wrap {
+        flex: 0 0 14%;
+    }
+
+    /* banner */
+    .banner-content h1 {
+        font-size: 72px;
+    }
+    
+    .banner-content p {
+        font-size: 18px;
+    }
+    
+    .main-btn {
+        font-size: 14px;
+        padding: 12px 28px;
+    }
+
+    /* about section */
+    .about-content h2 {
+        font-size: 72px;
+    }
+    .about-content p {
+        max-width: 540px;
+    }
+    .fa-20 {
+        font-size: 16px;
+    }
+    
+    .about-img img {
+        max-width: 500px;
+    }
+
+    /* celebration */
+    .headings-wrap h2 {
+        font-size: 55px;
+    }
+    
+    .shashky {
+        max-width: 270px;
+    }
+    .celebration .headings-wrap p {
+        max-width: 440px;
+    }
+    .headings-wrap p {
+        max-width: 500px;
+    }
+    
+    .fa-24 {
+        font-size: 17px;
+    }
+    
+    .travel-content h2 {
+        font-size: 32px;
+    }
+    
+    .travel-content p {
+        max-width: 420px;
+    }
+    
+    .fa-20 {
+        font-size: 14px;
+    }
+    
+    .travel-img img {
+        max-width: 470px;
+    }
+    
+    .progress__bar__stop {
+        width: 15px;
+        height: 15px;
+        transform: translate(-6.6px, -5px);
+    }
+    
+    .travel-main-wrapper {
+        padding: 100px 0;
+    }
+    
+    .travel-content {
+        padding-bottom: 130px;
+    }
+
+    /* passion */
+    .passion-content h2 {
+        font-size: 60px;
+    }
+    
+    .fa-24 {
+        font-size: 15px;
+    }
+    
+    .passion-content {
+        max-width: 560px;
+    }
+    
+    section.passion {
+        padding: 100px 0;
+    }
+    /* Room Section */
+    .room-wrap h2 {
+        font-size: 24px;
+        padding: 30px 0 18px;
+    }
+    
+    .room-wrap button.main-btn {
+        padding: 12px 22px;
+        line-height: 1.1;
+        font-size: 13px;
+    }
+    
+    .room-wrap {
+        margin-bottom: 55px;
+    }
+    /* testimonials */
+    section.testimonial {
+        padding: 80px 0 130px;
+    }
+    section.testimonial:before {
+        height: 600px;
+    }
+    .testi-main-wrapper {
+        padding-left: 120px;
+    }
+    .testi-slide {
+        padding: 20px 20px 20px 60px;
+    }
+    
+    .testi-slide p {
+        font-size: 12px;
+    }
+    
+    .testi-slider-wrapper {
+        padding-right: 80px;
+    }
+    
+    .testi-slide p:before {
+        width: 22px;
+        height: 22px;
+        left: -38px;
+    }
+    
+    .customer-profile h2 {
+        font-size: 18px;
+    }
+    
+    .customer-profile img {
+        max-width: 50px;
+    }
+    .testi-main-wrapper .headings-wrap p {
+        max-width: 600px;
+        font-size: 12px;
+    }
+    /* newsletter */
+    .newsletter-content h2 {
+        font-size: 28px;
+    }
+    
+    .newsletter-content p {
+        font-size: 13px;
+        max-width: 560px;
+    }
+    
+    section.newsletter {
+        padding: 45px 0;
+    }
+    
+    form.newsletter-form input {
+        padding: 12px 14px;
+    }
+    
+    form.newsletter-form .main-btn {
+        padding: 0px 40px;
+    }
+    .headings-wrap h2.fa-60 {
+        font-size: 40px;
+    }
+    
+    .contact-content .headings-wrap p {
+        max-width: unset;
+        font-size: 14px;
+    }
+
+    /* contact section */
+    section.contact-sec {
+        padding: 70px 0 60px;
+    }
+    form.contact-form input, form.contact-form textarea {
+        padding: 10px 12px;
+        font-size: 13px;
+    }
+    
+    form.contact-form textarea {
+        height: 130px;
+    }
+    
+    form.contact-form .main-btn {
+        font-size: 13px;
+    }
+    /* Footer */
+    .footer-content img {
+        max-width: 150px;
+    }
+    
+    .footer-content p {
+        font-size: 14px;
+        max-width: 240px;
+    }
+    
+    .footer-head {
+        font-size: 20px;
+    }
+    
+    .main-footer ul {
+        padding-top: 15px;
+    }
+    
+    .footer-links ul li {
+        padding-bottom: 12px;
+    }
+    
+    .footer-links ul li a {
+        font-size: 14px;
+    }
+    
+    .footer-address ul li {
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    
+    .footer-bottom-img img {
+        max-width: 125px;
+    }
+    
+    .footer-images {
+        padding: 30px 0 35px 0;
+    }
+    
+    .footer-policy-wrap p a {
+        font-size: 13px;
+    }
+    
+    .footer-policy-wrap {
+        padding: 14px 0;
+        gap: 45px;
+    }
+    
+    
+    section.About-Inner-section .about-main-content h1.color-green {
+        font-size: 60px;
+    }
+    
+
+
+    
+}
+
+@media(max-width:1439px){
+    /* header */
+    .topbar-social i {
+        width: 24px;
+        height: 24px;
+        font-size: 11px;
+    }
+    
+    .top-contact-links a {
+        font-size: 11px;
+    }
+    
+    .top-contact-links a span {
+        margin-right: 10px;
+    }
+    
+    .top-bar {
+        padding: 12px 0;
+    }
+    
+    nav.main-nav li a {
+        font-size: 11px;
+    }
+    
+    nav.main-nav li {
+        padding-right: 30px;
+    }
+    
+    .logo-wrap {
+        flex: 0 0 11%;
+    }
+    /* banner */
+    .banner-content h1 {
+        font-size: 60px;
+    }
+    
+    .banner-content p {
+        font-size: 14px;
+        max-width: 520px;
+        margin: 0 auto 30px auto;
+    }
+    
+    .main-btn {
+        font-size: 12px;
+        padding: 10px 22px;
+    }
+    
+    section.banner-section {
+        padding: 200px 0 210px;
+    }
+
+    /* about */
+    .about-content h2 {
+        font-size: 50px;
+        max-width: 400px;
+    }
+    
+    .fa-20 {
+        font-size: 12px;
+    }
+    
+    .about-content p {
+        max-width: 450px;
+        margin-bottom: 28px;
+    }
+    
+    .about-img img {
+        max-width: 400px;
+    }
+    
+    /* celebration */
+    .travel-main-wrapper {
+        padding: 70px 0;
+    }
+    .headings-wrap h2 {
+        font-size: 42px;
+    }
+    
+    .shashky {
+        max-width: 210px;
+    }
+    
+    .celebration .headings-wrap p {
+        max-width: 380px;
+        margin-top: 15px;
+    }
+    
+    .fa-24 {
+        font-size: 13px;
+    }
+    
+    .travel-content h2 {
+        font-size: 24px;
+    }
+    
+    .travel-content p {
+        max-width: 350px;
+    }
+    
+    .travel-img img {
+        max-width: 380px;
+    }
+    
+    .travel-content {
+        padding-bottom: 120px;
+    }
+    /* passion */
+    section.passion {
+        padding: 90px 0;
+    }
+    .passion-content h2 {
+        font-size: 43px;
+        margin-bottom: 15px;
+    }
+    
+    .passion-content {
+        max-width: 480px;
+    }
+    /* room section */
+    section.our-room {
+        padding: 60px 0 0;
+    }
+    
+    .room-wrapper {
+        margin-top: 40px;
+    }
+    .room-wrap {
+        margin-bottom: 45px;
+    }
+    
+    .room-wrap h2 {
+        font-size: 18px;
+        padding: 24px 0 16px;
+    }
+    
+    .room-wrap button.main-btn {
+        font-size: 11px;
+        padding: 10px 20px;
+        border-width: 1px;
+    }
+    /* testimonial */
+    .testi-main-wrapper {
+        padding-left: 60px;
+    }
+    
+    .testi-slide p {
+        font-size: 11px;
+    }
+    
+    .customer-profile h2 {
+        font-size: 16px;
+    }
+    
+    .customer-profile img {
+        max-width: 40px;
+    }
+    
+    section.testimonial {
+        padding: 70px 0 90px;
+    }
+    
+    section.testimonial:before {
+        height: 530px;
+    }
+    
+    .testimonial .headings-wrap-sm {
+        padding-bottom: 60px;
+    }
+    /* newsletter */
+    section.newsletter {
+        padding: 36px 0;
+    }
+    .newsletter-content h2 {
+        font-size: 24px;
+    }
+    
+    .newsletter-content p {
+        font-size: 11px;
+        max-width: 480px;
+    }
+    
+    form.newsletter-form input {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-width: 230px;
+    }
+    
+    form.newsletter-form .main-btn {
+        padding: 0px 28px;
+    }
+    /* contact */
+    section.contact-sec {
+        padding: 50px 0;
+    }
+    .headings-wrap h2.fa-60 {
+        font-size: 30px;
+    }
+    
+    .contact-content .headings-wrap p {
+        font-size: 12px;
+        margin-top: 15px;
+    }
+    
+    form.contact-form input, form.contact-form textarea {
+        padding: 8px 12px;
+        font-size: 11px;
+    }
+    
+    form.contact-form textarea {
+        height: 110px;
+    }
+    
+    form.contact-form .main-btn {
+        font-size: 11px;
+        line-height: 1.1;
+        padding: 10px 18px;
+    }
+    /* footer */
+    .footer-content img {
+        max-width: 120px;
+    }
+    
+    .footer-content p {
+        font-size: 12px;
+        max-width: 210px;
+    }
+    
+    .footer-head {
+        font-size: 17px;
+    }
+    
+    .footer-links ul li {
+        padding-bottom: 7px;
+    }
+    
+    .footer-links ul li a {
+        font-size: 12px;
+    }
+    
+    .main-footer ul {
+        padding-top: 10px;
+    }
+    
+    .footer-address ul li {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    
+    .footer-bottom-img img {
+        max-width: 100px;
+    }
+    
+    .footer-images {
+        padding: 25px 0 25px 0;
+    }
+    
+    .footer-policy-wrap p a {
+        font-size: 11px;
+    }
+    
+    .footer-policy-wrap {
+        padding: 10px 0px;
+        gap: 38px;
+    }
+    
+    footer.main-footer {
+        padding: 60px 0 0;
+    }
+    
+    
+    
+    
+
+    
+    section.About-Inner-section .about-main-content h1.color-green {
+        font-size: 55px;
+    }
+    
+    section.banner-section.inner-banner {
+        margin-bottom: 40px;
+    }
+    
+    section.About-Inner-section .about-inner-content p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    
+    
+
+
+
+}
+
+@media(max-width:1279px){
+    /* header */
+    .topbar-social i:first-child {
+        margin-right: 10px;
+    }
+    
+    .topbar-social i {
+        width: 18px;
+        height: 18px;
+        font-size: 8px;
+    }
+    
+    .top-contact-links a {
+        font-size: 9px;
+    }
+    
+    .top-contact-links a:first-child {
+        margin-right: 18px;
+    }
+    
+    .top-bar {
+        padding: 10px 0;
+    }
+    
+    nav.main-nav li a {
+        font-size: 9px;
+    }
+    
+    .logo-wrap {
+        flex: 0 0 9%;
+    }
+    
+    .main-navigations {
+        padding-top: 20px;
+    }
+    /* banner */
+    .banner-content h1 {
+        font-size: 42px;
+    }
+    
+    .banner-content p {
+        font-size: 11px;
+        max-width: unset;
+        margin: 10px auto 20px auto;
+    }
+    
+    .main-btn {
+        font-size: 9px;
+        padding: 10px 18px;
+        line-height: 1.1;
+    }
+    
+    .banner-content {
+        max-width: 410px;
+    }
+    
+    section.banner-section {
+        padding: 160px 0 150px;
+        background-position: top;
+    }
+    /* about */
+    .about-content h2 {
+        font-size: 44px;
+        max-width: 300px;
+    }
+    
+    .fa-20 {
+        font-size: 10px;
+    }
+    
+    .about-content p {
+        max-width: 380px;
+        margin-bottom: 20px;
+    }
+    
+    .about-img img {
+        max-width: 340px;
+    }
+    
+    .about-sec {
+        padding: 65px 0;
+    }
+    /* celebration */
+    .headings-wrap h2 {
+        font-size: 34px;
+    }
+    
+    .shashky {
+        max-width: 170px;
+    }
+    
+    .celebration .headings-wrap p {
+        max-width: 320px;
+        margin-top: 12px;
+    }
+    
+    .fa-24 {
+        font-size: 11px;
+    }
+    
+    .travel-content h2 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    
+    .travel-content {
+        padding-bottom: 80px;
+    }
+    
+    .travel-img img {
+        max-width: 320px;
+    }
+    
+    .travel-main-wrapper {
+        padding: 60px 0;
+    }
+    /* passion */
+    .passion-content {
+        max-width: 430px;
+    }
+    /* room section */
+    .our-room .headings-wrap p {
+        max-width: 320px;
+        margin-top: 10px;
+    }
+    
+    .room-wrap h2 {
+        font-size: 15px;
+        padding: 22px 0 16px;
+    }
+    
+    .room-wrap button.main-btn {
+        font-size: 9px;
+        padding: 9px 20px;
+    }
+    
+    .room-wrap {
+        margin-bottom: 35px;
+    }
+    /* testimonial */
+    .testi-main-wrapper {
+        padding-left: 40px;
+    }
+    
+    .headings-wrap-sm img {
+        max-width: 170px;
+    }
+    
+    .testi-main-wrapper .headings-wrap p {
+        max-width: 500px;
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    
+    .testi-slide p {
+        font-size: 9px;
+    }
+    
+    .testi-slide {
+        padding: 15px 15px 15px 40px;
+    }
+    
+    .testi-slide p:before {
+        width: 18px;
+        height: 18px;
+        left: -28px;
+    }
+    
+    .testimonial .headings-wrap-sm {
+        padding-bottom: 45px;
+    }
+    
+    section.testimonial:before {
+        height: 440px;
+    }
+    /* newsletter */
+    .newsletter-content h2 {
+    font-size: 22px;
+    }
+
+    .newsletter-content p {
+        font-size: 9px;
+        max-width: 390px;
+    }
+
+    form.newsletter-form input {
+        padding: 6px 12px;
+        font-size: 10px;
+    }
+    /* contact */
+    .headings-wrap h2.fa-60 {
+        font-size: 26px;
+    }
+    
+    .contact-content .headings-wrap p {
+        font-size: 11px;
+        margin-top: 12px;
+    }
+    
+    form.contact-form input, form.contact-form textarea {
+        padding: 6px 12px;
+        font-size: 9px;
+        border-radius: 5px;
+    }
+    
+    form.contact-form .main-btn {
+        font-size: 10px;
+        line-height: 1.1;
+        padding: 9px 16px;
+    }
+    /* Footer */
+    .footer-content img {
+    max-width: 90px;
+    }
+
+    .footer-content p {
+        font-size: 10px;
+        max-width: 170px;
+    }
+
+    .footer-head {
+        font-size: 14px;
+    }
+
+    .footer-links ul li {
+        padding-bottom: 4px;
+    }
+
+    .footer-links ul li a {
+        font-size: 10px;
+    }
+
+    .main-footer ul {
+        padding-top: 0px;
+    }
+
+    .footer-address ul li {
+        font-size: 9px;
+        margin-bottom: 7px;
+    }
+
+    .footer-bottom-img img {
+        max-width: 80px;
+    }
+
+    .footer-policy-wrap p a {
+        font-size: 9px;
+    }
+
+    .footer-policy-wrap {
+        padding: 6px 0px;
+        gap: 30px;
+    }
+    section.About-Inner-section .about-main-content h1.color-green {
+        font-size: 45px;
+    }
+    
+    section.About-Inner-section .about-main-content h3.color-green {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    
+    section.banner-section.inner-banner {
+        margin-bottom: 30px;
+    }
+    
+    section.About-Inner-section .about-inner-content p {
+        font-size: 10px;
+        line-height: 18px;
+    }
+    
+    section.About-Inner-section img {
+        height: 300px;
+        width: auto;
+    }
+}
+
+@media(max-width:991px){
+    .container-80 {
+        width: 100%;
+    }
+    .topbar-social i {
+        width: 25px;
+        height: 25px;
+        font-size: 12px;
+    }
+    .top-contact-links a {
+        font-size: 12px;
+    }
+    /* banner */
+    .banner-content {
+        max-width: 500px;
+        background: #ffffffbd;
+        padding: 30px;
+        margin: 0 auto;
+    }
+    .banner-content h1 {
+        font-size: 34px;
+    }
+    .banner-content p {
+        font-size: 14px;
+    }
+    .main-btn {
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+    section.banner-section {
+        padding: 130px 0;
+    }
+    .about-img img {
+        max-width: 270px;
+        margin: 0 auto;
+        display: block;
+    }
+    .about-content {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .about-content h2 {
+        font-size: 32px;
+        max-width: unset;
+    }
+    .about-content p {
+        max-width: unset;
+    }
+    .about-content p {
+        max-width: unset;
+        margin-bottom: 20px;
+    }
+    .fa-20 {
+        font-size: 14px;
+    }
+    .celebration .headings-wrap p{
+        max-width: unset;
+    }
+    .fa-24 {
+        font-size: 14px;
+    }
+    .progress__bar__bg {
+        left: 0;
+    }
+    .celebration .progress__bar {
+        left: 0;
+    }
+    .travel-main-wrapper .row {
+        padding-left: 40px;
+        align-items: center;
+    }
+    .travel-content p{
+        max-width: unset;
+        font-size: 13px;
+    }
+    .travel-img {
+        max-width: 280px;
+    }
+    
+    .travel-img img {
+        max-width: 100%;
+    }
+    
+    .travel-content {
+        padding-bottom: 40px;
+    }
+    .passion-content h2 {
+        font-size: 34px;
+    }
+    .passion-content {
+        max-width: unset;
+    }
+    .our-room .headings-wrap p {
+        max-width: 450px;
+    }
+    .room-wrap h2 {
+        font-size: 18px;
+    }
+    .room-wrap button.main-btn {
+        font-size: 12px;
+    }
+    .testi-main-wrapper .headings-wrap p {
+        font-size: 14px;
+    }
+    section.testimonial:before{
+        display: none;
+    }
+    .testi-main-wrapper {
+        padding-left: 0;
+    }
+    .testi-slider-wrapper {
+        padding: 0;
+    }
+    .testi-slide p{
+        font-size: 11px;
+    }
+    .headings-wrap h2 {
+        font-size: 30px;
+    }
+    .newsletter-content p {
+        font-size: 12px;
+        max-width: unset;
+    }
+    form.newsletter-form {
+        display: block;
+    }
+    form.newsletter-form .main-btn {
+        padding: 10px 28px;
+        display: block;
+        width: 100%;
+        margin-top: 10px;
+    }
+    form.newsletter-form .form-group {
+        margin-right: 0;
+    }
+    form.newsletter-form input {
+        padding: 8px 14px;
+        font-size: 12px;
+    }
+    section.contact-sec:before {
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+    }
+    section.contact-sec .contact-content {
+        background: #fff;
+        padding: 40px;
+    }
+    .contact-content .headings-wrap p {
+        font-size: 14px;
+    }
+    form.contact-form input, form.contact-form textarea {
+        padding: 8px 14px;
+        font-size: 13px;
+        border-radius: 5px;
+    }
+    form.contact-form .main-btn {
+        font-size: 12px;
+    }
+    section.contact-sec {
+        padding: 65px 0;
+    }
+    .footer-content img {
+        max-width: 120px;
+    }
+    .footer-content p {
+        font-size: 13px;
+        max-width: 70%;
+        margin-bottom: 20px;
+    }
+    
+    .footer-head {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    
+    .footer-links ul li a {
+        font-size: 13px;
+    }
+    
+    .footer-address ul li {
+        font-size: 12px;
+        margin-bottom: 7px;
+    }
+    
+    .footer-bottom-img img {
+        max-width: 90px;
+    }
+    
+    .footer-policy-wrap p a {
+        font-size: 12px;
+    }
+    nav.main-nav li a {
+        font-size: 7px;
+    }
+    
+    .menus-wrap {
+        flex:  0 0 45%;
+    }
+    
+    .room-wrapper .col-lg-4 {
+        flex: 0 0 50%;
+    }
+    
+    div.newsletter-form {
+        display: block;
+    }
+    
+    div.newsletter-form button.main-btn {
+        padding: 15px 60px;
+        margin-top: 20px;
+    }
+    
+}
+
+@media(max-width:767px){
+    .travel-main-wrapper .row:nth-child(even) {
+        flex-direction: column-reverse;
+    }
+    .banner-content h1 {
+        font-size: 28px;
+    }
+    .about-content h2 {
+        font-size: 26px;
+    }
+    .headings-wrap h2 {
+        font-size: 26px;
+    }
+    .headings-wrap h2 {
+        font-size: 26px;
+    }
+    section.testimonial {
+        padding: 60px 0 60px;
+    }
+    .testi-slide p {
+        font-size: 13px;
+    }
+
+
+.travel-main-wrapper .row .col-md-6 {
+    flex:  0 0 50%;
+}
+
+.travel-main-wrapper .row:nth-child(even) {
+    flex-direction: row-reverse;
+}
+.top-bar .col-md-6 {
+    flex: 0 0 50%;
+}
+section.About-Inner-section .about-main-content h1.color-green {
+    font-size: 35px;
+}
+}

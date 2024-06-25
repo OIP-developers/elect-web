@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+@font-face {
+  font-family: 'apollo';
+  src: url(../fonts/APOLLO.otf);
+}
+.icon {
+  margin-left: 10px;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  }
+  body {
+      font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+  }
+  h1,h2,h3 {
+      font-family: 'apollo';
+  }
+  .fa-20 {
+      font-size: 20px;
+  }
+  .fa-24 {
+      font-size: 24px;
+  }
+  .color-green{
+      color: #116d6a;
+  }
+  p {
+  font-size: 16px;
+  }
+  .row {
+  margin-left: 0;
+  margin-right: 0;
+  }
+  .padding-0 {
+  padding: 0;
+  }
+  .flex {
+  display: flex;
+  }
+  .items-center {
+  align-items: center;
+  }
+  .justify-between {
+  justify-content: space-between;
+  }
+  .justify-center {
+  justify-content: center;
+  }
+  :root {
+  --primary: #bba367;
+  --secondary: #231f20;
+  }
+  .container-80 {
+  width: 80%;
+  max-width: 1640px;
+  margin: 0 auto;
+  }
+  .container-1420 {
+  max-width: 1420px;
+  width: 100%;
+  margin: 0 auto;
+  }
+  
+  img {
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+  }
+  a:hover,
+  a:focus,
+  button:focus,
+  .form-control:focus {
+  text-decoration: none;
+  outline: 0;
+  box-shadow: none;
+  }
+  a:focus,
+  a:active,
+  a:visited,
+  a:hover {
+  text-decoration: none;
+  }
+  input:focus {
+  outline: none;
+  }
+  button:focus,
+  select:focus {
+  outline: none;
+  box-shadow: none;
+  }
+  ul li {
+  list-style: none;
+  }
+
